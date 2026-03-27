@@ -1,0 +1,114 @@
+{
+  "deals": [
+    {
+      "id": 101,
+      "company_id": 12345,
+      "issue_date": "2026-03-01",
+      "due_date": "2026-04-30",
+      "type": "income",
+      "partner_id": 1001,
+      "partner_name": "(株)ABC商事",
+      "amount": 550000,
+      "details": [
+        {
+          "account_item_id": 401,
+          "account_item_name": "売上高",
+          "tax_code": 21,
+          "amount": 500000,
+          "vat": 50000,
+          "description": "コンサルティング費用3月分"
+        }
+      ],
+      "status": "settled"
+    },
+    {
+      "id": 102,
+      "company_id": 12345,
+      "issue_date": "2026-03-05",
+      "due_date": "2026-03-31",
+      "type": "expense",
+      "partner_id": 1005,
+      "partner_name": "オフィスナビ(株)",
+      "amount": 88000,
+      "details": [
+        {
+          "account_item_id": 630,
+          "account_item_name": "地代家賃",
+          "tax_code": 0,
+          "amount": 88000,
+          "vat": 0,
+          "description": "3月分オフィス賃料"
+        }
+      ],
+      "status": "settled"
+    },
+    {
+      "id": 103,
+      "company_id": 12345,
+      "issue_date": "2026-03-10",
+      "due_date": "2026-04-30",
+      "type": "income",
+      "partner_id": 1003,
+      "partner_name": "山田建設(株)",
+      "amount": 1320000,
+      "details": [
+        {
+          "account_item_id": 401,
+          "account_item_name": "売上高",
+          "tax_code": 21,
+          "amount": 1200000,
+          "vat": 120000,
+          "description": "システム開発費用フェーズ1"
+        }
+      ],
+      "status": "unsettled"
+    },
+    {
+      "id": 104,
+      "company_id": 12345,
+      "issue_date": "2026-03-15",
+      "due_date": "2026-03-31",
+      "type": "expense",
+      "partner_id": 1010,
+      "partner_name": "(株)テックラボ",
+      "amount": 330000,
+      "details": [
+        {
+          "account_item_id": 620,
+          "account_item_name": "外注費",
+          "tax_code": 21,
+          "amount": 300000,
+          "vat": 30000,
+          "description": "Webサイト制作業務委託"
+        }
+      ],
+      "status": "unsettled"
+    },
+    {
+      "id": 105,
+      "company_id": 12345,
+      "issue_date": "2026-03-25",
+      "due_date": "2026-03-31",
+      "type": "expense",
+      "partner_id": 1012,
+      "partner_name": "Amazon Web Services",
+      "amount": 54780,
+      "details": [
+        {
+          "account_item_id": 622,
+          "account_item_name": "通信費",
+          "tax_code": 21,
+          "amount": 49800,
+          "vat": 4980,
+          "description": "AWS利用料3月分"
+        }
+      ],
+      "status": "settled"
+    }
+  ],
+  "meta": {
+    "total_count": 5,
+    "from_date": "2026-03-01",
+    "to_date": "2026-03-31"
+  }
+}

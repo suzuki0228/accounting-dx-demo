@@ -1,0 +1,148 @@
+{
+  "account_items": [
+    {
+      "id": 401,
+      "name": "売上高",
+      "shortcut": "URI",
+      "tax_code": 21,
+      "group_name": "売上高",
+      "corresponding_income_name": "売上高"
+    },
+    {
+      "id": 501,
+      "name": "仕入高",
+      "shortcut": "SII",
+      "tax_code": 21,
+      "group_name": "売上原価",
+      "corresponding_expense_name": "仕入高"
+    },
+    {
+      "id": 610,
+      "name": "役員報酬",
+      "shortcut": "YAK",
+      "tax_code": 0,
+      "group_name": "販管費",
+      "corresponding_expense_name": "役員報酬"
+    },
+    {
+      "id": 611,
+      "name": "給与手当",
+      "shortcut": "KYU",
+      "tax_code": 0,
+      "group_name": "販管費",
+      "corresponding_expense_name": "給与手当"
+    },
+    {
+      "id": 612,
+      "name": "法定福利費",
+      "shortcut": "HOU",
+      "tax_code": 0,
+      "group_name": "販管費",
+      "corresponding_expense_name": "法定福利費"
+    },
+    {
+      "id": 620,
+      "name": "外注費",
+      "shortcut": "GAI",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "外注費"
+    },
+    {
+      "id": 621,
+      "name": "旅費交通費",
+      "shortcut": "RYO",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "旅費交通費"
+    },
+    {
+      "id": 622,
+      "name": "通信費",
+      "shortcut": "TSU",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "通信費"
+    },
+    {
+      "id": 623,
+      "name": "消耗品費",
+      "shortcut": "SHO",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "消耗品費"
+    },
+    {
+      "id": 624,
+      "name": "事務用品費",
+      "shortcut": "JIM",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "事務用品費"
+    },
+    {
+      "id": 630,
+      "name": "地代家賃",
+      "shortcut": "CHI",
+      "tax_code": 0,
+      "group_name": "販管費",
+      "corresponding_expense_name": "地代家賃"
+    },
+    {
+      "id": 631,
+      "name": "水道光熱費",
+      "shortcut": "SUI",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "水道光熱費"
+    },
+    {
+      "id": 640,
+      "name": "交際費",
+      "shortcut": "KOU",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "交際費"
+    },
+    {
+      "id": 641,
+      "name": "会議費",
+      "shortcut": "KAI",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "会議費"
+    },
+    {
+      "id": 650,
+      "name": "新聞図書費",
+      "shortcut": "SHI",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "新聞図書費"
+    },
+    {
+      "id": 660,
+      "name": "減価償却費",
+      "shortcut": "GEN",
+      "tax_code": 0,
+      "group_name": "販管費",
+      "corresponding_expense_name": "減価償却費"
+    },
+    {
+      "id": 670,
+      "name": "荷造運賃",
+      "shortcut": "NI",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "荷造運賃"
+    },
+    {
+      "id": 680,
+      "name": "広告宣伝費",
+      "shortcut": "KOK",
+      "tax_code": 21,
+      "group_name": "販管費",
+      "corresponding_expense_name": "広告宣伝費"
+    }
+  ]
+}
