@@ -313,3 +313,25 @@ demo-data/
 | 11  | AI経費精算             | `/expense-ai`         | 85%    | 月8h         | 月1.2h       |
 | 12  | 経費異常検知           | `/expense-alert`      | 90%    | 月10h        | 月1h         |
 | 13  | 予実差異分析           | `/variance-analysis`  | 75%    | 月20h        | 月5h         |
+
+---
+
+## デモ実行結果（Google Spreadsheet）
+
+各スキルのデモ実行で生成されたスプレッドシート一覧です。
+
+| No  | スキル                | スプレッドシート                                                                                            |
+| --- | --------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 1   | `/unpaid-check`       | [未入金チェック結果](https://docs.google.com/spreadsheets/d/121TmWY7_n6a_GSPJ8avuSMjNUnfsOh46FvvdM-1ptWE)   |
+| 2   | `/reconciliation`     | [消込結果](https://docs.google.com/spreadsheets/d/1g4z16OBYIHSTLGEANb9pRKt0TSMEXNgCjdN7Bayhi5s)             |
+| 3   | `/income-statement`   | [月次損益計算書(P/L)](https://docs.google.com/spreadsheets/d/1aSJPA3RN6UqB2ooPEsfG_C4DVzwrURK4uLwAVLeejtg)  |
+| 4   | `/journal-entry`      | [仕訳自動起票](https://docs.google.com/spreadsheets/d/1iglU-F-oE_oElSpI1oqsxHDwKAroCEpMgEC5xMGezVI)         |
+| 5   | `/expense-ai`         | [経費精算AIレポート](https://docs.google.com/spreadsheets/d/1XYKlPA7CPhdr-pI9FBIO4Gtq5QLfvq0GWcc4Wr2X6KA)   |
+| 6   | `/receipt-scan`       | [領収書スキャン結果](https://docs.google.com/spreadsheets/d/1ytVjTrR92RNDwmXS-6aprJWuz4nz3_ATEm91W8Ps6KI)   |
+| 7   | `/invoice-automation` | [請求書自動化結果](https://docs.google.com/spreadsheets/d/1U662TAJCz40wo-DUL3AROcGBedlHhOttJjg4AM8JSoQ)     |
+| 8   | `/freee-line-journal` | [freee仕訳×LINE](https://docs.google.com/spreadsheets/d/1bbiGm4U4rTEI-PdMgce_wRZcuLOG26WW7-agxmqF7Qk)       |
+| 9   | `/freee-mcp`          | [freee MCP連携](https://docs.google.com/spreadsheets/d/1CVP3ANh3DRZgexr8zNTI_0-NvAdKsm2mhhLAnAGC8zE)        |
+| 10  | `/amazon-receipt`     | [Amazon領収書データ](https://docs.google.com/spreadsheets/d/1iVFJhpCi4f1ok9pXBLemCu4jUc4fPZM7_Is7C5G5x1Q)   |
+| 11  | `/tax-return`         | [確定申告書ドラフト](https://docs.google.com/spreadsheets/d/1ol8wEV-2TCBmmBf33H0dy3RvxGJ_aJJ7kJoHenjxJ8w)   |
+| 12  | `/expense-alert`      | [経費異常検知アラート](https://docs.google.com/spreadsheets/d/1RdG0fPtcI7NMfd_czu4eXtHBETU99-sDOD_6hMOQF-g) |
+| 13  | `/variance-analysis`  | [予実差異分析](https://docs.google.com/spreadsheets/d/14aRQcgy0-N_XhpNpWxn8PxnFBSTwVWdERyivNYD0Z2I)         |
